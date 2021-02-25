@@ -60,7 +60,7 @@ class Airplane {
     toString() {
       return `${this.name}, ${this.age}`;
     }
-  }
+  
   
   
   /*
